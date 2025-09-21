@@ -1,7 +1,9 @@
 // Stepper motor
 // stepper motor will rotate in CW or CCW if you press sw1 or sw2
 // with rotational step with at your input keyboard
-
+/*
+Dont have stepper motor on Tinkercad
+*/
 int sw1 = A0;
 int sw2 = A1;
 
